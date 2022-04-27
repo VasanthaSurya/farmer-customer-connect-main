@@ -1,0 +1,29 @@
+.submit{
+    width: 170px;
+    font-size: 18px;
+    
+}
+
+.App{
+    /* background-image: url(''); */
+    /* position: fixed; */
+    text-align: center;
+    min-width: 100%;
+    min-height: 100%;
+    background-size: cover;
+    background-position: center;
+    /* overflow-x: scroll; */
+}
+#image-container{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    height: 100vh;
+    width:auto;
+    margin-top: -7%;
+    margin-right: -5%;
+    padding-block-start: 5%;
+    margin-bottom: auto;
+    /* background:url(https://c1.wallpaperflare.com/preview/387/754/409/padi-field-indonesian-rice-plant.jpg) no-repeat center center fixed; */
+  
+    }

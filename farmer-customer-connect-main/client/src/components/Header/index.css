@@ -1,0 +1,22 @@
+.bar{
+    border-radius: 8px;
+    width: 600px;
+    height: 35px;
+}
+.god{
+    border-radius: 8px;
+    width: 100px;
+    height: 35px;
+    font-size: 20px;
+    background-color: #ffb74d;
+    color: black;
+}
+.god:hover{
+    border-radius: 8px;
+    width: 100px;
+    height: 35px;
+    font-size: 20px;
+    background-color: white;
+    font-weight: bolder;
+    color: black;
+}

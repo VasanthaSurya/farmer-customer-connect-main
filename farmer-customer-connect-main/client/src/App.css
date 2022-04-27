@@ -1,0 +1,9 @@
+.App{
+    /* position: absolute; */
+    text-align: center;
+    min-width: 100%;
+    min-height: 100%;
+    background-size: cover;
+    background-position: center;
+    /* overflow-x: scroll; */
+}
