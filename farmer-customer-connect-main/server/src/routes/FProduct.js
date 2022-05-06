@@ -7,7 +7,7 @@ const FProduct=require('../models/FProduct')
 
 const storage = multer.diskStorage({
     destination: (req, file, callback)  =>{
-        callback(null,"C:/Users/Prudhvi/OneDrive/Desktop/FCC_Git2/farmer-customer-connect/client/public/uploads");
+        callback(null,"C:/Users/surya/Desktop/farmer-customer-connect-main/farmer-customer-connect-main/uploads");
     },
     filename: (req, file, callback) => {
         callback(null, file.originalname);
